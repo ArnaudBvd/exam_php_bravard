@@ -1,0 +1,58 @@
+h2{
+    color: #01d758;
+}
+
+table {
+    width: 100%;
+}
+
+th{
+    text-align: center;
+    padding: 8px 0;
+}
+
+td{
+    text-align: center;
+    padding: 8px 0;
+    border-bottom: 1px dashed grey;
+}
+
+.td_footer{
+    border: none;
+}
+
+#btn-add-player {
+    background-color: #01d758;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#btn-validate {
+    background-color: #01d758;
+    border: none;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 8px;
+}
+
+#btn-delete {
+    background-color: #ff000a;
+    border: none;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 8px;
+}
+
+#btn-update {
+    background-color: #0131B4;
+    border: none;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 8px;
+}
